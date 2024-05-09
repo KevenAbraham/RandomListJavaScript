@@ -1,7 +1,7 @@
 const participants = [
     { name: "Keven Abraham", image: "img/keven.jpg" },
     { name: "Hitalo Jacome", image: "img/hitalo.jpg" },
-    { name: "Letícia Astorga", image: "img/leticia.jpg" },
+    // { name: "Letícia Astorga", image: "img/leticia.jpg" },
     { name: "Murilo Santana", image: "img/murilo.jpg" }
 ];
 
