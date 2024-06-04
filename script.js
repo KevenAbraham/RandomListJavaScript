@@ -3,6 +3,7 @@ const participants = [
     { name: "Hitalo Jacome", image: "img/hitalo.jpg" },
     // { name: "Letícia Astorga", image: "img/leticia.jpg" },
     { name: "Maria Eduarda", image: "img/duda.jpeg" },
+    { name: "Priscila Herculano", image: "img/priperfil.jpg" },
     { name: "Murilo Santana", image: "img/murilo.jpg" }
 ];
 
